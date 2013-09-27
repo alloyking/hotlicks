@@ -1,1 +1,1 @@
-afplay Documents/hotlicks/guitar-riff.mp3
+afplay /Users/<username>/Documents/hotlicks/guitar-riff.mp3
