@@ -10,6 +10,10 @@
 
 		$ . ~/.bash_profile
 
+- Edit rock.sh
+
+		afplay /Users/<username>/Documents/hotlicks/guitar-riff.mp3
+
 - Run your script
 
 		$ rock
