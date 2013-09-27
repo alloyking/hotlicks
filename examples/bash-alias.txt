@@ -1,0 +1,4 @@
+#add this to your ~/.bash_profile and save
+#then run this to reload the profile ". ~/.bash_profile" from the terminal 
+
+alias rock="/Users/<username>/Documents/hotlicks/rock.sh"
